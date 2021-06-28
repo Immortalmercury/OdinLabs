@@ -10,12 +10,22 @@ In the future, OdinLabs and OdinTeachers will be merged into one application.
 ## Screenshots
 
 ![image](https://user-images.githubusercontent.com/52525943/123644365-fcb85980-d82d-11eb-95aa-ae50dcd9351b.png)
-![image](https://user-images.githubusercontent.com/52525943/123644407-06da5800-d82e-11eb-87ce-02f582d7abc6.png)
+
+
 ![image](https://user-images.githubusercontent.com/52525943/123644447-0f329300-d82e-11eb-9390-cb912e8c777d.png)
+
+
 ![image](https://user-images.githubusercontent.com/52525943/123644472-15287400-d82e-11eb-89eb-c85a826eb70c.png)
+
+
 ![image](https://user-images.githubusercontent.com/52525943/123644509-1b1e5500-d82e-11eb-834a-305e3261e255.png)
-![image](https://user-images.githubusercontent.com/52525943/123644528-1f4a7280-d82e-11eb-81e6-b5ded85ee909.png)
+
+
+![image](https://user-images.githubusercontent.com/52525943/123644886-7bad9200-d82e-11eb-9d6d-e3ee35e23bb5.png)
+
+
 ![image](https://user-images.githubusercontent.com/52525943/123644651-3d17d780-d82e-11eb-9ea1-07bf3315edbf.png)
+
 
 
 ## License
